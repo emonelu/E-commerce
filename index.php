@@ -156,193 +156,40 @@
 						</div>
 					</div>
 				</div>
-					<div class="row">
-						<div class="col">
-							<div class="product-grid" data-isotope='{"itemSelector": ".priduct-item", "layoutMode": "fillRows"}'></div>
+				<div class="row">
+					<div class="col">
+						<div class="product-grid" data-isotope='{"itemSelector": ".priduct-item", "layoutMode": "fitRows"}'>
 
-							
+
 							<!-- Product 1 -->
 							<div class="product-item men">
 								<div class="product discount product_filter">
 									<div class="product_image">
 										<img src="images/product_1.png" alt="">
 									</div>
-									<div class="favorrite favorite_left">
-										<div class="product_bubble product_bibble_right product_bubble_red d-flex flex-colum align-items-center">
-											<span>-Ksh 500</span>
-										</div>
-										<div class="product_info">
-											<h6 class="product_name"><a href="#">Men's Solid Slim Fit Casual Shirt</a></h6>
-											<div class="product_price">Kes 520 <span>Kes 590</span></div>
-										</div>
-									</div>
-									<div class="red_button add_to_cart_button"><a href="#">add to cart</a></div>
-								</div>
 
-										<!-- Product 2 -->
-							<div class="product-item men">
-								<div class="product discount product_filter">
-									<div class="product_image">
-										<img src="images/product_2.png" alt="">
-									</div>
-									<div class="favorrite favorite_left">
-										<div class="product_bubble product_bibble_right product_bubble_red d-flex flex-colum align-items-center">
-											<span>-Ksh 500</span>
+									<div class="favorite favorite_left"></div>
+										<div class="product_bubble product_bubble_right product_bubble_red d-flex flex-column align-items-center">
+											<span> Kes 520 </span>
 										</div>
 										<div class="product_info">
-											<h6 class="product_name"><a href="#">Men's Solid Slim Fit Casual Shirt</a></h6>
-											<div class="product_price">Kes 520 <span>Kes 590</span></div>
+											<h6 class="product_name"><a href="#">Men's Solid Slim Fir Casual Shirt</a></h6>
+											<div class="product_price">kes 1000 <span>kes 1200</span></div>
 										</div>
-									</div>
+										</div>
 									<div class="red_button add_to_cart_button"><a href="#">add to cart</a></div>
-								</div>
 
-										<!-- Product 3 -->
-							<div class="product-item men">
-								<div class="product discount product_filter">
-									<div class="product_image">
-										<img src="images/product_3.png" alt="">
 									</div>
-									<div class="favorrite favorite_left">
-										<div class="product_bubble product_bibble_right product_bubble_red d-flex flex-colum align-items-center">
-											<span>-Ksh 500</span>
-										</div>
-										<div class="product_info">
-											<h6 class="product_name"><a href="#">Men's Solid Slim Fit Casual Shirt</a></h6>
-											<div class="product_price">Kes 520 <span>Kes 590</span></div>
-										</div>
-									</div>
-									<div class="red_button add_to_cart_button"><a href="#">add to cart</a></div>
-								</div>
+							
 
-										<!-- Product 4 -->
-							<div class="product-item men">
-								<div class="product discount product_filter">
-									<div class="product_image">
-										<img src="images/product_4.png" alt="">
-									</div>
-									<div class="favorrite favorite_left">
-										<div class="product_bubble product_bibble_right product_bubble_red d-flex flex-colum align-items-center">
-											<span>-Ksh 500</span>
-										</div>
-										<div class="product_info">
-											<h6 class="product_name"><a href="#">Men's Solid Slim Fit Casual Shirt</a></h6>
-											<div class="product_price">Kes 520 <span>Kes 590</span></div>
-										</div>
-									</div>
-									<div class="red_button add_to_cart_button"><a href="#">add to cart</a></div>
-								</div>
 
-										<!-- Product 5 -->
-							<div class="product-item men">
-								<div class="product discount product_filter">
-									<div class="product_image">
-										<img src="images/product_5.png" alt="">
-									</div>
-									<div class="favorrite favorite_left">
-										<div class="product_bubble product_bibble_right product_bubble_red d-flex flex-colum align-items-center">
-											<span>-Ksh 500</span>
-										</div>
-										<div class="product_info">
-											<h6 class="product_name"><a href="#">Men's Solid Slim Fit Casual Shirt</a></h6>
-											<div class="product_price">Kes 520 <span>Kes 590</span></div>
-										</div>
-									</div>
-									<div class="red_button add_to_cart_button"><a href="#">add to cart</a></div>
-								</div>
+							
 
-										<!-- Product 6 -->
-							<div class="product-item men">
-								<div class="product discount product_filter">
-									<div class="product_image">
-										<img src="images/product_6.png" alt="">
-									</div>
-									<div class="favorrite favorite_left">
-										<div class="product_bubble product_bibble_right product_bubble_red d-flex flex-colum align-items-center">
-											<span>-Ksh 500</span>
-										</div>
-										<div class="product_info">
-											<h6 class="product_name"><a href="#">Men's Solid Slim Fit Casual Shirt</a></h6>
-											<div class="product_price">Kes 520 <span>Kes 590</span></div>
-										</div>
-									</div>
-									<div class="red_button add_to_cart_button"><a href="#">add to cart</a></div>
-								</div>
-
-										<!-- Product 7 -->
-							<div class="product-item men">
-								<div class="product discount product_filter">
-									<div class="product_image">
-										<img src="images/product_7.png" alt="">
-									</div>
-									<div class="favorrite favorite_left">
-										<div class="product_bubble product_bibble_right product_bubble_red d-flex flex-colum align-items-center">
-											<span>-Ksh 500</span>
-										</div>
-										<div class="product_info">
-											<h6 class="product_name"><a href="#">Men's Solid Slim Fit Casual Shirt</a></h6>
-											<div class="product_price">Kes 520 <span>Kes 590</span></div>
-										</div>
-									</div>
-									<div class="red_button add_to_cart_button"><a href="#">add to cart</a></div>
-								</div>
-										<!-- Product 8 -->
-							<div class="product-item men">
-								<div class="product discount product_filter">
-									<div class="product_image">
-										<img src="images/product_8.png" alt="">
-									</div>
-									<div class="favorrite favorite_left">
-										<div class="product_bubble product_bibble_right product_bubble_red d-flex flex-colum align-items-center">
-											<span>-Ksh 500</span>
-										</div>
-										<div class="product_info">
-											<h6 class="product_name"><a href="#">Men's Solid Slim Fit Casual Shirt</a></h6>
-											<div class="product_price">Kes 520 <span>Kes 590</span></div>
-										</div>
-									</div>
-									<div class="red_button add_to_cart_button"><a href="#">add to cart</a></div>
-								</div>
-										<!-- Product 9 -->
-							<div class="product-item men">
-								<div class="product discount product_filter">
-									<div class="product_image">
-										<img src="images/product_9.png" alt="">
-									</div>
-									<div class="favorrite favorite_left">
-										<div class="product_bubble product_bibble_right product_bubble_red d-flex flex-colum align-items-center">
-											<span>-Ksh 500</span>
-										</div>
-										<div class="product_info">
-											<h6 class="product_name"><a href="#">Men's Solid Slim Fit Casual Shirt</a></h6>
-											<div class="product_price">Kes 520 <span>Kes 590</span></div>
-										</div>
-									</div>
-									<div class="red_button add_to_cart_button"><a href="#">add to cart</a></div>
-								</div>
-										<!-- Product 10 -->
-							<div class="product-item men">
-								<div class="product discount product_filter">
-									<div class="product_image">
-										<img src="images/product_10.png" alt="">
-									</div>
-									<div class="favorrite favorite_left">
-										<div class="product_bubble product_bibble_right product_bubble_red d-flex flex-colum align-items-center">
-											<span>-Ksh 500</span>
-										</div>
-										<div class="product_info">
-											<h6 class="product_name"><a href="#">Men's Solid Slim Fit Casual Shirt</a></h6>
-											<div class="product_price">Kes 520 <span>Kes 590</span></div>
-										</div>
-									</div>
-									<div class="red_button add_to_cart_button"><a href="#">add to cart</a></div>
-								</div>
-							</div>
-						</div>
+						
 					</div>
+				</div>
 			</div>
 		</div>
-
 
 		<!-- Deal of the week -->
 
@@ -358,18 +205,18 @@
 
 
 		<!-- Footer -->
-	</div>
 
-	<!-- Bootstrap JS CDN -->
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
-	<!-- jquery JS File -->
-	<script src="js/jquery-3.2.1.min.js"></script>
-	<!-- Isotope JS File -->
-	<script src="plugins/Isotope/isotope.pkgd.min.js"></script>
-	<!-- Owl Carousel JS File -->
-	<script src="plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
-	<!-- Javascript File -->
-	<script src="js/custom.js"></script>
+
+		<!-- Bootstrap JS CDN -->
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
+		<!-- jquery JS File -->
+		<script src="js/jquery-3.2.1.min.js"></script>
+		<!-- Isotope JS File -->
+		<script src="plugins/Isotope/isotope.pkgd.min.js"></script>
+		<!-- Owl Carousel JS File -->
+		<script src="plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
+		<!-- Javascript File -->
+		<script src="js/custom.js"></script>
 </body>
 
 </html>
