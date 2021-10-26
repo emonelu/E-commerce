@@ -48,7 +48,7 @@
 								</ul>
 								<ul class="navbar_user">
 									<li><a href="#"><i class="fa fa-search" arial-hidden="true"></i></a></li>
-									<li><a href="#"><i class="fa fa-user" arial-hidden="true"></i></a></li>
+									<li><a href="e-commerce/registration.php"><i class="fa fa-user" arial-hidden="true"></i></a></li>
 									<li class="checkout">
 										<a href="#">
 											<i class="fa fa-shopping-cart" aria-hidden="true"></i>
